@@ -1,10 +1,10 @@
-##NeetCode Blind 150 Solutions
-This repository contains my solutions to the NeetCode Blind 150 list of LeetCode problems, which are widely regarded as essential for technical interview preparation. Each solution aims to be clear, efficient, and well-commented.
+NeetCode Blind 150 Solutions 
+This repository serves as my personal workspace for tackling the NeetCode Blind 150 problems. 
 
-Problems Solved So Far
-Here's a list of the problems I've tackled from the Blind 150 list:
+Problems Conquered (So Far!) 
+Here are the problems I've successfully solved:
 
-1. Arrays & Hashing:
-Contains Duplicate
-Valid Anagram
-Two Sum
+Arrays & Hashing
+✅ Contains Duplicate
+✅ Valid Anagram
+✅ Two Sum
