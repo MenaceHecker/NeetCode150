@@ -1,4 +1,6 @@
 //Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.
+import java.util.HashMap;
+import java.util.Map;
 class Solution {
     public boolean hasDuplicate(int[] nums) {
         Map<Integer, Integer> counts = new HashMap<>();
