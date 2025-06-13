@@ -8,3 +8,4 @@ Arrays & Hashing
 ✅ Contains Duplicate
 ✅ Valid Anagram
 ✅ Two Sum
+✅ Valid Palindrome 
